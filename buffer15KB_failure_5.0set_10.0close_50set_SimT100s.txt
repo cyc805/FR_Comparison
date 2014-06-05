@@ -1,0 +1,7 @@
+
+total size : 57487872
+total number of packets : 107254
+total delay is : 2954.2
+average delay is : 0.027544
+Goodput is : 4622.14 kbps
+done
